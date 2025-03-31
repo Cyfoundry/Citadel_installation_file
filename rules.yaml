@@ -1,0 +1,57 @@
+%YAML 1.1
+---
+default-rule-path: /config/setting/ips/rules
+rule-files:
+  - activex.rules
+  - adware_pup.rules
+  - attack_response.rules
+  - botcc.portgrouped.rules
+  - botcc.rules
+  - chat.rules
+  - ciarmy.rules
+  - coinminer.rules
+  - compromised.rules
+  - current_events.rules
+  - deleted.rules
+  - dns.rules
+  - dos.rules
+  - drop.rules
+  - dshield.rules
+  - exploit_kit.rules
+  - exploit.rules
+  - ftp.rules
+  - games.rules
+  - hunting.rules
+  - icmp_info.rules
+  - icmp.rules
+  - imap.rules
+  - inappropriate.rules
+  - info.rules
+  - ja3.rules
+  - malware.rules
+  - misc.rules
+  - mobile_malware.rules
+  - netbios.rules
+  - p2p.rules
+  - phishing.rules
+  - policy.rules
+  - pop3.rules
+  - retired.rules
+  - rpc.rules
+  - scada.rules
+  - scada_special.rules
+  - scan.rules
+  - shellcode.rules
+  - smtp.rules
+  - snmp.rules
+  - sql.rules
+  - telnet.rules
+  - tftp.rules
+  - threatview_CS_c2.rules
+  - tor.rules
+  - user_agents.rules
+  - voip.rules
+  - web_client.rules
+  - web_server.rules
+  - web_specific_apps.rules
+  - worm.rules
